@@ -1,0 +1,27 @@
+.bold
+{
+ font-weight:bold;
+}
+
+.menu
+{
+ width:80%;
+	 height:40px;
+	 background-color:#6633FF;	
+     	 
+}
+
+.table
+{
+	width:100%;
+
+	
+}
+
+.footer
+{
+  width:80%;
+  height:15%;
+ background-color: #6633FF;
+
+} 
